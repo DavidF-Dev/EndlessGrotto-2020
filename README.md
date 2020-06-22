@@ -1,5 +1,5 @@
 # Endless Grotto (2020)
-**Download the latest version in the [Releases](https://github.com/DavidF-Dev/EndlessGrotto-2020/releases) tab.**</br>
+**Download the latest version from Itch.io: [https://davidf-dev.itch.io/endless-grotto](https://davidf-dev.itch.io/endless-grotto) or from the [Releases](https://github.com/DavidF-Dev/EndlessGrotto-2020/releases) tab.**</br>
 
 **Gameplay Video - [LINK](https://youtu.be/0MkxZRJvqO4)**</br>
 [![Alt text](https://img.youtube.com/vi/0MkxZRJvqO4/0.jpg)](https://youtu.be/0MkxZRJvqO4)</br>
