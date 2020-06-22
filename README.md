@@ -21,6 +21,8 @@ The game was developed in C# using the [Nez framework by Prime31](https://github
 
 The caves are procedurally generated using Cellular Automata and then populated with entities. This was my first time using procedural generation in a game and I love it! I've never been great at designing levels by hand, so having that burden lifted allowed me to focus on more exciting things - like bosses!
 
+Entity physics is achieved using the Solid & Actor system described by [@MattThorson](https://twitter.com/MattThorson) in their article: [https://medium.com/@MattThorson/celeste-and-towerfall-physics-d24bd2ae0fc5](https://medium.com/@MattThorson/celeste-and-towerfall-physics-d24bd2ae0fc5)
+
 ## Screenshots
 <img src="ss1.png" width=50%/>
 <img src="ss2.png" width=50%/>
